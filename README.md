@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-This is my file project
+This is my first project
